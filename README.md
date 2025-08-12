@@ -62,7 +62,7 @@ I'm a passionate developer who loves creating innovative solutions and contribut
 A modern, flexible headless CMS built with cutting-edge technologies for content management and API delivery.
 - **Tech Stack:** React, Node.js, MongoDB, GraphQL
 - **Features:** Real-time editing, Multi-tenant architecture, RESTful & GraphQL APIs
-- [🔗 Live Demo](https://your-demo-link.com) | [📖 Documentation](https://your-docs-link.com)
+- [🔗 Live Demo]([https://your-demo-link.com](https://serene-sorbet-59a3fe.netlify.app) | [📖 Documentation]([https://your-docs-link.com](https://serene-sorbet-59a3fe.netlify.app)
 
 ### 🚀 [Portfolio Website](https://github.com/rankwisy/portfolio)
 A responsive and interactive portfolio website showcasing my projects and skills.
